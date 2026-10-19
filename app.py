@@ -1,4 +1,4 @@
-```python
+python
 import streamlit as st
 import random
 import time
@@ -545,4 +545,4 @@ st.divider()
 st.caption(
     "🧠 AI Club Exhibition Project | AI Memory Match"
 )
-```
+
